@@ -7,7 +7,7 @@ A simple .NET CORE wep api configured to run with Postgres inside a container us
 - Restore all the packages.
 - Run the application.
 
-Migrations will be applied automatically if necessary when the app runs. This will create the database, tables and seed them with data. 
+Migrations will be applied automatically if necessary when the app runs. This will create the database, tables, and seed them with data. 
 
 ## Endpoints
 ### brands
