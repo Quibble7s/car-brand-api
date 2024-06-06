@@ -3,7 +3,7 @@
 A simple .NET CORE wep api configured to run with Postgres inside a container using Docker Compose.
 
 ## How to run the app
-- If not set, set the *"docker-compose"* project has the startup project.
+- If not, set the *"docker-compose"* project has the startup project.
 - Restore all the packages.
 - Run the application.
 
